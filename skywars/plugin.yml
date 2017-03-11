@@ -1,0 +1,14 @@
+name: skywars
+main: skywars\main
+version: 6.0
+api: [2.1.0]
+load: POSTWORLD
+author: gentleman
+description:
+commands:
+ set:
+  description: '/set 島のspawn地点'
+ dispawn:
+  description: '/dispawn 死んだときの場所'
+ opt:
+  description: 'チェストの設定'
